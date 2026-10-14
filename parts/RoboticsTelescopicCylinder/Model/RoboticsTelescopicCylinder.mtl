@@ -1,0 +1,56 @@
+newmtl Grey
+Ka 1 1 1
+Kd 0.460 0.470 0.480
+Ks 0.5 0.5 0.5
+Ns 200
+d 1
+illum 2
+
+newmtl DarkGrey
+Ka 1 1 1
+Kd 0.200 0.210 0.220
+Ks 0.5 0.5 0.5
+Ns 200
+d 1
+illum 2
+
+newmtl Steel
+Ka 1 1 1
+Kd 0.780 0.790 0.810
+Ks 0.5 0.5 0.5
+Ns 200
+d 1
+illum 2
+
+newmtl Orange
+Ka 1 1 1
+Kd 0.800 0.450 0.100
+Ks 0.5 0.5 0.5
+Ns 200
+d 1
+illum 2
+
+newmtl Yellow
+Ka 1 1 1
+Kd 0.850 0.660 0.150
+Ks 0.5 0.5 0.5
+Ns 200
+d 1
+illum 2
+
+newmtl Label
+Ka 1 1 1
+Kd 0.300 0.310 0.320
+Ks 0.5 0.5 0.5
+Ns 200
+d 1
+illum 2
+
+newmtl Red
+Ka 1 1 1
+Kd 0.850 0.120 0.100
+Ks 0.5 0.5 0.5
+Ns 200
+d 1
+illum 2
+
